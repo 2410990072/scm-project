@@ -8,7 +8,8 @@ body {
     justify-content: center;
     height: 100vh;
   }
-  
+
+  /*container*/
   .container {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.4);
@@ -47,4 +48,3 @@ body {
     background-color: white;
     color: #2575fc;
   }
-  
